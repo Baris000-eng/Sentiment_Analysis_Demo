@@ -5,7 +5,6 @@ from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score, f1_score, recall_score
 
-# Your data setup remains unchanged
 data = {
     'text': [
         "Bu film harikaydı, çok sevdim!",
